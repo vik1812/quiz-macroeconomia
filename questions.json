@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "micro_q1",
+    "topic": "Microeconomia",
+    "question": "MICROECONOMIA",
+    "choices": [
+      "Il denaro cui si rinuncia al momento del pagamento di un bene.",
+      "Il denaro cui si rinuncia operando una scelta.",
+      "Il costo opportunità.",
+      "Il valore di cio' che si sacrifica al momento in cui si opera una scelta."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q2",
+    "topic": "Microeconomia",
+    "question": "Il vantaggio assoluto si realizza se:",
+    "choices": [
+      "Si puo' produrre un bene con maggior specializzazione.",
+      "Si puo' produrre un bene con maggiore qualità.",
+      "Si puo' produrre un bene impiegando meno risorse di altri.",
+      "Si puo' produrre un bene con minor costo opportunità."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q3",
+    "topic": "Microeconomia",
+    "question": "Si ha un'esternalità di rete quando:",
+    "choices": [
+      "All'aumentare dei fruitori il prodotto aumenta di valore.",
+      "Al diminuire dei fruitori il prodotto aumenta di valore.",
+      "All'aumentare dei fruitori il prodotto diminuisce di valore.",
+      "I risultati della rete non sono completamente internalizzabili."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q4",
+    "topic": "Microeconomia",
+    "question": "In concorrenza monopolistica l'obiettivo della pubblicità à:",
+    "choices": [
+      "Informare gli acquirenti sulle qualità del prodotto.",
+      "Rendere meno rilevante il prezzo come discriminante dell'acquisto.",
+      "Informare gli acquirenti sulle caratteristiche del prodotto.",
+      "Rendere piu' rilevante il prezzo come discriminante dell'acquisto."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q5",
+    "topic": "Microeconomia",
+    "question": "Si ricorre massicciamente alla pubblicità:",
+    "choices": [
+      "In concorrenza perfetta.",
+      "Tutte false.",
+      "In concorrenza monopolistica.",
+      "In monopolio."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q6",
+    "topic": "Microeconomia",
+    "question": "Un aumento del salario:",
+    "choices": [
+      "Non ha effetto sui costi marginali dell'impresa.",
+      "Aumenta i costi marginali dell'impresa.",
+      "Tutte false.",
+      "Diminuisce i costi marginali dell'impresa."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q7",
+    "topic": "Microeconomia",
+    "question": "L'imposta sulla spesa, a parità di sacrificio, produce un gettito:",
+    "choices": [
+      "Proporzionale.",
+      "Uguale.",
+      "Meno elevato.",
+      "Piu' elevato."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q8",
+    "topic": "Microeconomia",
+    "question": "Il free rider e' un soggetto che ritiene:",
+    "choices": [
+      "Che il bene comune sia inesistente.",
+      "Che il bene comune si realizzi solo con il suo intervento.",
+      "Che il bene comune si realizzi anche senza il suo intervento.",
+      "Che il bene comune si realizzi con il suo intervento."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q9",
+    "topic": "Microeconomia",
+    "question": "Il teorema di Coase sostiene che:",
+    "choices": [
+      "Le imposte indirette sono meno distorsive di quelle dirette.",
+      "Le imposte indirette sono piu' distorsive di quelle dirette.",
+      "Non e' necessario l'intervento dello stato per porre rimedio alle esternalità.",
+      "e' necessario l'intervento dello stato per porre rimedio alle esternalità."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q10",
+    "topic": "Microeconomia",
+    "question": "Per i consumatori che esprimono valutazione piu' alta e' conveniente praticare:",
+    "choices": [
+      "Una tariffa pari al costo totale medio.",
+      "Una tariffa pari al costo fisso medio.",
+      "Una tariffa pari al costo marginale.",
+      "Una tariffa pari al costo medio variabile."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q11",
+    "topic": "Microeconomia",
+    "question": "L'impresa pubblica competitiva:",
+    "choices": [
+      "e' un'impresa di proprietà pubblica in competizione con imprese private.",
+      "e' un'impresa di proprietà pubblica in competizione con altre imprese pubbliche.",
+      "e' un'impresa di proprietà privata in competizione con imprese di proprietà pubblica.",
+      "Tutte false."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q12",
+    "topic": "Microeconomia",
+    "question": "Con la funzione benthamiana si arriva a sostenere che:",
+    "choices": [
+      "Il benessere della società diminuisce se migliora solo la posizione dei ricchi.",
+      "Il benessere sociale diminuisce se migliora solo la posizione dei poveri.",
+      "Il benessere della società aumenta anche solo se migliora la posizione dei ricchi.",
+      "Il benessere sociale aumenta solo se migliora la posizione dei poveri."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q13",
+    "topic": "Microeconomia",
+    "question": "Un bene privato e':",
+    "choices": [
+      "Non rivale e non escludibile.",
+      "Rivale ed escludibile.",
+      "Rivale  ma non escludibile.",
+      "Non rivale ma escludibile."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q14",
+    "topic": "Microeconomia",
+    "question": "Si ha un fallimento del mercato quando:",
+    "choices": [
+      "Siamo in oligopolio.",
+      "Non si ha equilibrio di mercato.",
+      "L'equilibrio di mercato nono e' economicamente efficiente.",
+      "Le dotazioni degli individui non sono efficienti."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q15",
+    "topic": "Microeconomia",
+    "question": "Se il prezzo di mercato e' maggiore del costo medio totale minimo:",
+    "choices": [
+      "I profitti attraggono nuove imprese.",
+      "I profitti scoraggiano nuovi entranti.",
+      "Le perdite stimolano le imprese ad uscire dal mercato.",
+      "I profitti stimolano le imprese ad uscire dal mercato."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q16",
+    "topic": "Microeconomia",
+    "question": "In una società per azioni il soggetto giuridico e' rappresentato:",
+    "choices": [
+      "Dai soci.",
+      "Dal consiglio di amministrazione.",
+      "Dalla società stessa.",
+      "Dai soci di maggioranza."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q17",
+    "topic": "Microeconomia",
+    "question": "La società A possiede il 45% delle azioni della società B, pertanto:",
+    "choices": [
+      "Si puo' affermare che A esercita il controllo di diritto di B.",
+      "nessuna delle affermazioni e' esatta.",
+      "Si puo' affermare che A non esercita il controllo di diritto di B.",
+      "Si puo' affermare che e' una società di persone."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q18",
+    "topic": "Microeconomia",
+    "question": "Nel sistema competitivo della concorrenza allargata, le barriere all’entrata diventano piu' alte:",
+    "choices": [
+      "nessuna delle affermazioni e' esatta.",
+      "Quando sono poco numerosi i clienti.",
+      "Quando per entrare nel settore c’e' bisogno di competenze altamente specialistiche.",
+      "Quando per entrare nel settore non c’e' bisogno di competenze altamente specialistiche."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q19",
+    "topic": "Microeconomia",
+    "question": "L’aggregato delle imprese, assimilabili nei processi di produzione di beni o servizi, che si rivolgono agli stessi mercati di acquisto dei fattori produttivi e agli stessi mercati di sbocco forma:",
+    "choices": [
+      "Una Holding.",
+      "Un settore.",
+      "Un gruppo aziendale finanziario.",
+      "Nessuna delle precedenti alternative."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q20",
+    "topic": "Microeconomia",
+    "question": "Quando un mercato si dice contendibile?",
+    "choices": [
+      "Quando e' possibile accedere al mercato liberamente, senza particolari barriere.",
+      "Quando non e' possibile prevenire le reazioni delle altre imprese.",
+      "Quando la presenza di barriere non lo rende accessibile a tutte le imprese.",
+      "Quando non esiste una reale minaccia di nuovi entranti."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q21",
+    "topic": "Microeconomia",
+    "question": "Un'impresa che attua una strategia di prezzo predatorio:",
+    "choices": [
+      "e' disposta a ridurre il fatturato.",
+      "e' disposta a sacrificare i profitti nel lungo periodo.",
+      "e' disposta a sacrificare i profitti nel breve periodo.",
+      "Nessuna delle precedenti risposte."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q22",
+    "topic": "Microeconomia",
+    "question": "La teoria dell'agenzia:",
+    "choices": [
+      "Analizza le relazioni tra due agenti.",
+      "Nessuna delle precedenti alternative e' corretta.",
+      "Analizza le relazioni tra due principali.",
+      "Analizza le relazioni tra principale e agente."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q23",
+    "topic": "Microeconomia",
+    "question": "Nell'oligopolio esistono barriere all'ingresso e/o all'uscita?",
+    "choices": [
+      "Si, ma non sono insuperabili.",
+      "Si, ma non sono superabili.",
+      "Nessuna delle risposte.",
+      "Non esistono."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q24",
+    "topic": "Microeconomia",
+    "question": "Per ridurre il rischio d'imprese:",
+    "choices": [
+      "Nessuna delle risposte.",
+      "Entrambe le risposte.",
+      "Si collude.",
+      "Si coopera."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q25",
+    "topic": "Microeconomia",
+    "question": "Per misurare il grado di concentrazione di mercato e' spesso misurato il test:",
+    "choices": [
+      "Nessuna delle precedenti risposte.",
+      "INDIPENDENZA.",
+      "SUI SISTEMI ECONOMICI.",
+      "SSNIP."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q26",
+    "topic": "Microeconomia",
+    "question": "Il termine distretto industriale e' stato introdotto da:",
+    "choices": [
+      "Vickers.",
+      "Bain.",
+      "Blaug.",
+      "Marshall."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q27",
+    "topic": "Microeconomia",
+    "question": "L'entrata imitativa e l'entrata innovativa sono:",
+    "choices": [
+      "Due modelli collusivi.",
+      "Due modelli statici di entrata nel mercato.",
+      "Due modelli dinamici di entrata nel mercato.",
+      "Due modelli che mirano a portare equilibrio sul mercato."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q28",
+    "topic": "Microeconomia",
+    "question": "Cosa puo' compromettere la stabilità di un cartello:",
+    "choices": [
+      "il mark up.",
+      "i prezzi predatori.",
+      "nessuna delle risposte.",
+      "i free riding."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q29",
+    "topic": "Microeconomia",
+    "question": "Nel modello di Edgeworth:",
+    "choices": [
+      "si introduce un tetto massimo di prezzo.",
+      "possono essere introdotti sia vincoli sul prezzo che sulla capacità produttiva.",
+      "nessuna delle precedenti risposte.",
+      "si introduce un vincolo di capacità produttiva."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q30",
+    "topic": "Microeconomia",
+    "question": "La collusione:",
+    "choices": [
+      "E' un modello caratterizzato dalla reciproca interdipendenza.",
+      "E' un modello di concorrenza perfetta.",
+      "E' un modello che viene utilizzato per il superamento di incertezze e instabilità.",
+      "Nessuna delle risposte."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q31",
+    "topic": "Microeconomia",
+    "question": "Per misurare il grado di concentrazione di mercato e' spesso misurato il test:",
+    "choices": [
+      "nessuna delle precedenti risposte.",
+      "INDIPENDENZA.",
+      "SUI SISTEMI ECONOMICI.",
+      "SSNIP."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q32",
+    "topic": "Microeconomia",
+    "question": "Il termine distretto industriale e' stato introdotto da:",
+    "choices": [
+      "Vickers.",
+      "Bain.",
+      "Blaug.",
+      "Marshall."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q33",
+    "topic": "Microeconomia",
+    "question": "Gli elementi che caratterizzano un distretto sono:",
+    "choices": [
+      "presenza di economie esterne locali.",
+      "tutte vere.",
+      "rendimenti di scala crescenti e costi di transazione.",
+      "riduzione dei costi di apprendimento e sviluppo delle tecnologie."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q34",
+    "topic": "Microeconomia",
+    "question": "Quando un settore e' composto da imprese di uguali dimensioni?",
+    "choices": [
+      "Quando il valore dell'indice di Gini e' pari a 0.",
+      "Quando le imprese operano in un mercato di concorrenza perfetta.",
+      "Quando il valore dell'elasticità della domanda e' nullo.",
+      "Quando il valore dell'indice di Gini e' pari a 1."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q35",
+    "topic": "Microeconomia",
+    "question": "le economie di scala possono scoraggiare l'ingresso:",
+    "choices": [
+      "soltanto se imprese di piccole dimensioni possono sostenere costi dovuti alla presenza nel settore.",
+      "soltanto se imprese con dimensioni elevate possono sostenere costi dovuti alla presenza nel settore.",
+      "sempre.",
+      "soltanto se imprese con dimensioni elevate non possono sostenere costi dovuti alla presenza nel settore."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q36",
+    "topic": "Microeconomia",
+    "question": "Un'impresa che attua una strategia del prezzo predatorio:",
+    "choices": [
+      "E' disposta a sacrificare i profitti nel lungo periodo.",
+      "nessuna delle risposte.",
+      "E' disposta a sacrificare i profitti nel breve periodo.",
+      "E' disposta a ridurre il fatturato."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q37",
+    "topic": "Microeconomia",
+    "question": "Con il metodo del cost plus pricing:",
+    "choices": [
+      "le imprese fissano il prezzo una volta definito il costo fisso, aggiungono a questo una percentuale di ricarico in linea con il profitto che vogliono realizzare, e determinano il prezzo da praticare.",
+      "le imprese fissano il prezzo una volta definito il costo totale, aggiungono a questo una percentuale di ricarico in linea con il profitto che vogliono realizzare, e determinano il prezzo da praticare.",
+      "le imprese fissano il prezzo una volta definito il costo medio variabile, aggiungono a questo una percentuale di ricarico in linea con il profitto che vogliono realizzare, e determinano il prezzo da praticare.",
+      "le imprese fissano il prezzo una volta definito il costo medio totale, aggiungono a questo una percentuale di ricarico in linea con il profitto che vogliono realizzare, e determinano il prezzo da praticare."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q38",
+    "topic": "Microeconomia",
+    "question": "Quando la discriminazione di prezzo e' definita non lineare:",
+    "choices": [
+      "con la discriminazione di secondo grado.",
+      "con la discriminazione di terzo grado.",
+      "con il mark-up.",
+      "con la discriminazione di primo grado."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q39",
+    "topic": "Microeconomia",
+    "question": "Il peak load pricing:",
+    "choices": [
+      "E' una forma di discriminazione intertemporale, che permette di differenziare i costi di produzione in funzione delle quantità domandate.",
+      "E' una forma di discriminazione intertemporale, che permette di differenziare i prezzi sulla base delle disponibilità a pagare dei soggetti, espresse attraverso le preferenze in ordine al momento di fruizione del servizio.",
+      "E' una forma di discriminazione intertemporale, che permette di differenziare i prezzi sulla base delle quantità acquistate da ciascun cliente.",
+      "nessuna delle precedenti alternative e' corretta."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q40",
+    "topic": "Microeconomia",
+    "question": "Arrow sostiene che:",
+    "choices": [
+      "Ricerca e innovazione spesso non coincidono.",
+      "Non esiste innovazione senza ricerca.",
+      "Senza nessuna pressione da parte della concorrenza e' possibile incentivare la ricerca e, quindi, l'innovazione.",
+      "Solo un'elevata pressione concorrenziale puo' incentivare la ricerca e, quindi, l'innovazione."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q41",
+    "topic": "Microeconomia",
+    "question": "In un mercato di concorrenza perfetta:",
+    "choices": [
+      "La numerosità dei compratori dipende dal numero di prodotti perfetti sostituti disponibili sul mercato.",
+      "Sono molto numerosi sia i compratori che i venditori.",
+      "Sono numerosi solo i compratori.",
+      "Sono molto numerosi solo i venditori."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q42",
+    "topic": "Microeconomia",
+    "question": "Con il metodo di analisi parziale si ipotizza che:",
+    "choices": [
+      "nel corso delle analisi, le condizioni di mercato varino continuamente.",
+      "nel corso delle analisi, le condizioni di mercato vanno considerate parzialmente.",
+      "nel corso delle analisi, le condizioni di mercato restino immutate.",
+      "nel corso delle analisi, le condizioni di mercato restino variabili."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q43",
+    "topic": "Microeconomia",
+    "question": "Con l'espressione domanda di un bene si intende:",
+    "choices": [
+      "la quantità di un bene che i compratori desiderano acquistare in corrispondenza di un certo prezzo, in un dato istante.",
+      "la quantità di un bene che i venditori desiderano acquistare in corrispondenza di un certo prezzo, in un dato istante.",
+      "la quantità di un bene che i compratori desiderano acquistare in corrispondenza di un un prezzo fisso, in un dato istante.",
+      "la quantità di un bene sostitutivo che i compratori non desiderano acquistare in corrispondenza di un certo prezzo, in un dato istante."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q44",
+    "topic": "Microeconomia",
+    "question": "La funzione di domanda e' una funzione:",
+    "choices": [
+      "costante al prezzo.",
+      "decrescente al prezzo.",
+      "crescente continua al prezzo.",
+      "crescente discontinua al prezzo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q45",
+    "topic": "Microeconomia",
+    "question": "La funzione di offerta (parziale) e' una funzione:",
+    "choices": [
+      "costante al prezzo.",
+      "crescente discontinua al prezzo.",
+      "crescente al prezzo.",
+      "decrescente al prezzo."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q46",
+    "topic": "Microeconomia",
+    "question": "Quali sono i fattori da cui dipende l'offerta di un bene?",
+    "choices": [
+      "tecnologia, eventi casuali.",
+      "fattori di capitalizzazione.",
+      "tecnologia, prezzodi altri beni, eventi casuali.",
+      "tecnologia, costi di acquisizione dei fattori produttivi, prezzo di altri beni, eventi casuali."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q47",
+    "topic": "Microeconomia",
+    "question": "Con l'analisi di statica comparata e' possibile:",
+    "choices": [
+      "osservare solo le curve di domanda.",
+      "osservare solo le curve di offerta.",
+      "osservare l'intera configurazione delle curve di domanda e di offerta.",
+      "osservare il comportamento del consumatore."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q48",
+    "topic": "Microeconomia",
+    "question": "Il postulato di individualismo afferma che:",
+    "choices": [
+      "le preferenze del soggetto sono individualistiche, esse non risentono in alcun modo del contesto sociale nel quale questi si trova ad operare.",
+      "le preferenze del soggetto  non sono individualistiche, esse non risentono in alcun modo del contesto sociale nel quale questi si trova ad operare.",
+      "le preferenze del soggetto sono individualistiche, esse non risentono in alcun modo del contesto sociale nel quale questi si trova ad operare.",
+      "le preferenze del soggetto sono individualistiche, esse risentono in alcun modo del contesto sociale nel quale questi si trova ad operare."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q49",
+    "topic": "Microeconomia",
+    "question": "Il saggio marginale di sostituzione del bene 2 con il bene 1 e' dato da:",
+    "choices": [
+      "Δx2/Δx1",
+      "x1/x2",
+      "Δx2/Δx1",
+      "Δx2/x1"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q50",
+    "topic": "Microeconomia",
+    "question": "L'elasticità di sostituzione e' data da:",
+    "choices": [
+      "σ=(Δ(x2/x1))/(Δ(dx2/dx1)/(x2/x1))",
+      "σ=((x2/x1))/(Δ(dx2/dx1)/(dx2/dx1))",
+      "σ=(Δ(x2/x1))/(Δ(x2/x1)/(dx2/dx1))",
+      "σ=(Δ(x2/x1))/(Δ(dx2/dx1)/(dx2/dx1))"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q51",
+    "topic": "Microeconomia",
+    "question": "Il vincolo di bilancio nel problema del consumatore e' espresso dall'equazione:",
+    "choices": [
+      "p*x= ∑pi*xi=C",
+      "p*x= ∑pi*xi=R",
+      "p+x= ∑pi*xi=R",
+      "p*x= ∑pi+xi=C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q52",
+    "topic": "Microeconomia",
+    "question": "Un aumento di salari, costi di capitale e reddito nel mercato di un bene normale porterà a:",
+    "choices": [
+      "una diminuzione della domanda di beni e servizi nel mercato e a un prezzo di equilibrio piu' alto.",
+      "una diminuzione dell’offerta, a un aumento della domanda nel mercato e a un prezzo di equilibrio piu' alto.",
+      "una diminuzione dell’offerta e a un aumento della domanda nel mercato, ma non possiamo sapere la direzione della variazione del prezzo senza ulteriori informazioni.",
+      "una diminuzione dell’offerta di beni e servizi nel mercato e a un prezzo di equilibrio piu' alto."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q53",
+    "topic": "Microeconomia",
+    "question": "Il metodo di produzione che minimizza i costi e' funzione:",
+    "choices": [
+      "dei costi di produzione dell’impresa.",
+      "della tecnologia di produzione dell’impresa e del prezzo di mercato del bene.",
+      "della tecnologia di produzione e dei costi di produzione dell’impresa.",
+      "della tecnologia di produzione dell’impresa."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q54",
+    "topic": "Microeconomia",
+    "question": "Il costo marginale di produzione e':",
+    "choices": [
+      "la quantità di cui il costo totale aumenta quando la produzione aumenta di tre.",
+      "la variazione dell'utilità marginale.",
+      "la variazione del costo totale divisa per il livello di produzione.",
+      "la variazione del costo variabile totale divisa per la variazione della produzione."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q55",
+    "topic": "Microeconomia",
+    "question": "Secondo l'equazione di Slusky:",
+    "choices": [
+      "xj=(xj^-i)- (xr^-i)(xj)",
+      "xj=(xj^-i)+ (xr^i)(xj)",
+      "xj=(xj^-i)- (xr^i)(xj)",
+      "xj=(xj^-i)* (xr^i)(xj)"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q56",
+    "topic": "Microeconomia",
+    "question": "Il surplus del consumatore e':",
+    "choices": [
+      "massimo per valori unitari dell’elasticità.",
+      "massimo in presenza di prezzi calmierati.",
+      "minimo in presenza di sostegno alla produzione.",
+      "nessuna delle precedenti."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q57",
+    "topic": "Microeconomia",
+    "question": "Una allocazione e' Pareto-ottimale se:",
+    "choices": [
+      "non esiste alcuna altra allocazione possibile.",
+      "non e' possibile migliorare la posizione di qualcuno senza peggiorare quella di altri.",
+      "e' possibile migliorare la posizione di almeno un agente.",
+      "tutti stanno bene."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q58",
+    "topic": "Microeconomia",
+    "question": "Gli isoquanti di produzione rappresentano:",
+    "choices": [
+      "tutte le combinazioni dei tassi di impiego v1 e v2 che danno luogo ad un medesimo livello di output.",
+      "tutte le combinazioni dei costi v1 e v2 che danno luogo ad un medesimo livello di output.",
+      "tutte le combinazioni dei tassi di impiego v1 e v2 che danno luogo a diversi livelli di output.",
+      "tutte le combinazioni dei costi v1 e v2 che danno luogo ad diversi livelli di output."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q59",
+    "topic": "Microeconomia",
+    "question": "Una isoclina e':",
+    "choices": [
+      "un luogo dei punti appartenenti ad isoquanti diversi in corrispondenza dei quali il saggio marginale di sostituzione fra gli inputs si mantiene crescente.",
+      "un luogo dei punti appartenenti ad isoquanti uguali in corrispondenza dei quali il saggio marginale di sostituzione fra gli inputs si mantiene costante.",
+      "un luogo dei punti appartenenti ad isoquanti diversi in corrispondenza dei quali il saggio marginale di sostituzione fra gli inputs si mantiene costante.",
+      "un luogo dei punti appartenenti ad isoquanti diversi in corrispondenza dei quali il saggio marginale di sostituzione fra gli outputs si mantiene costante."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q60",
+    "topic": "Microeconomia",
+    "question": "Il costo totale medio (CTM) e' dato da:",
+    "choices": [
+      "CTM=CF/y",
+      "CTM=CT/y",
+      "CTM=CV/y",
+      "CTM=CT/C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q61",
+    "topic": "Microeconomia",
+    "question": "La funzione ricavo e' definita da :",
+    "choices": [
+      "R(y)=p.y",
+      "R(x)=p.y",
+      "R(y)=c.y",
+      "R(y)=C.y"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q62",
+    "topic": "Microeconomia",
+    "question": "Le diseconomie di scala sono dovute a:",
+    "choices": [
+      "limiti posti alla disponibilità di outputs, considerazioni meramente tecniche, problemi di management, fenomeni di conflittualità.",
+      "limiti posti alla disponibilità di inputs, considerazioni meramente tecniche, problemi di management, fenomeni di conflittualità.",
+      "soltanto a  considerazioni meramente tecniche.",
+      "limiti posti dal mercato."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q63",
+    "topic": "Microeconomia",
+    "question": "Nel regime di concorrenza perfetta l'impresa si dice in equilibrio di breve periodo quando:",
+    "choices": [
+      "l'impresa produce al tasso che le consente di massimizzare il profitto di breve periodo.",
+      "l'impresa non produce al tasso che le consente di massimizzare il profitto di breve periodo.",
+      "l'impresa produce al tasso che le consente di massimizzare il costo di breve periodo.",
+      "l'impresa produce al tasso che le consente di massimizzare il profitto di lungo periodo."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q64",
+    "topic": "Microeconomia",
+    "question": "Nel mercato d monopolio:",
+    "choices": [
+      "la curva di offerta dell'impresa monopolista e' la curva di mercato della merce che si considera.",
+      "la curva di domanda dell'impresa monopolista e' la curva di mercato della merce che si considera.",
+      "la curva di domanda dell'impresa monopolista e' la curva di offerta della merce che si considera.",
+      "la curva di domanda dell'impresa monopolista e' la curva di domanda  della merce che si considera."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q65",
+    "topic": "Microeconomia",
+    "question": "La differenza tra  prezzo di monopolio pM e prezzo di concorrenza pc e' detta:",
+    "choices": [
+      "mark-up del consumatore.",
+      "profitto.",
+      "mark-up di equilibrio concorrenziale.",
+      "mark-up del monopolista."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q66",
+    "topic": "Microeconomia",
+    "question": "Un tipo di regolamentazione del monopolio e' basata su :",
+    "choices": [
+      "determinazione del profitto ottimo.",
+      "determinazione del costo marginale ottimo.",
+      "determinazione del prezzo ottimo.",
+      "determinazione dell'utilità marginale."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q67",
+    "topic": "Microeconomia",
+    "question": "La regolamentazione basata sulla determinazione del prezzo e' data dalla funzione obiettivo:",
+    "choices": [
+      "max W= ∫ p(y)dy+∫C'dy",
+      "min W= ∫ p(y)dy-∫C'dy",
+      "max W= ∫ p(y)dy-∫C'dy",
+      "min W= ∫ p(y)dy+∫C'dy"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q68",
+    "topic": "Microeconomia",
+    "question": "Il modello di Cournot viene utilizzato per sviluppare la teoria:",
+    "choices": [
+      "della concorrenza monopolistica.",
+      "della concorrenza perfetta.",
+      "del monopolio.",
+      "dell'oligopolio."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q69",
+    "topic": "Microeconomia",
+    "question": "Nel modello di Cournot la curva di reazione e':",
+    "choices": [
+      "il luogo geometrico dei punti di massimo della curva di costo.",
+      "il luogo geometrico dei punti di minimo della curva di isoprofitto.",
+      "il luogo geometrico dei punti di massimo della curva di domanda.",
+      "il luogo geometrico dei punti di massimo della curva di isoprofitto."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q71",
+    "topic": "Microeconomia",
+    "question": "Se il prezzo dei telefonini \"XXX\" e'  tale per cui la loro domanda uguaglia la loro offerta, allora:",
+    "choices": [
+      "la spesa totale dei consumatori e' piu' alta del ricavo totale dei produttori.",
+      "la spesa totale dei consumatori e' uguale al ricavo totale dei produttori e uguale al prodotto tra prezzo e quantità d’equilibrio.",
+      "la spesa totale dei consumatori e' uguale al ricavo totale dei produttori ma maggiore del prodotto tra prezzo e quantità d’equilibrio.",
+      "la spesa totale dei consumatori e' piu' bassa del ricavo totale dei produttori."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q72",
+    "topic": "Microeconomia",
+    "question": "Una curva d’indifferenza rappresenta:",
+    "choices": [
+      "tutte le combinazioni di beni che il consumatore puo' acquistare spendendo tutto il suo reddito.",
+      "tutte le combinazioni di beni che garantiscono l’uguaglianza tra domanda e offerta.",
+      "tutte le combinazioni di beni che garantiscono al consumatore lo stesso grado di soddisfazione.",
+      "tutte le combinazioni di beni che garantiscono l’equilibrio sul mercato dei beni."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q73",
+    "topic": "Microeconomia",
+    "question": "Quando in un’economia di libero mercato si determina un \"disequilibrio\":",
+    "choices": [
+      "siamo in una situazione in cui domanda e offerta si eguagliano.",
+      "lo Stato interviene per riallocare le risorse.",
+      "una diminuzione del prezzo segnala che c’e' scarsità.",
+      "gli individui non capiscono cosa stia accadendo e aspettano fiduciosi."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q74",
+    "topic": "Microeconomia",
+    "question": "Se l’impresa “CC Inc.” aumenta la quantità di un fattore produttivo che utilizza e il suo prodotto marginale aumenta, si dice che la funzione di produzione e' caratterizzata da:",
+    "choices": [
+      "rendimenti marginali decrescenti.",
+      "rendimenti marginali costanti.",
+      "elasticità negativa.",
+      "rendimenti marginali crescenti."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q75",
+    "topic": "Microeconomia",
+    "question": "L'impresa con il rent serking:",
+    "choices": [
+      "ricerca le economie di scala.",
+      "ricerca la posizione dominante.",
+      "ricerca di minimizzare il profitto.",
+      "ricerca la posizione di equilibrio."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q76",
+    "topic": "Microeconomia",
+    "question": "Secondo la teoria dei giochi cosa si intende per gioco non cooperativo:",
+    "choices": [
+      "se non e' possibile per i giocatori prendere impegni.",
+      "quando gli impegni che i giocatori possono prendere fra di loro sono vincolanti.",
+      "quando i giocatori sono monopolisti.",
+      "quando gli impegni che i giocatori possono prendere sono impegni di profitto."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q77",
+    "topic": "Microeconomia",
+    "question": "Secondo la teoria dei giochi un gioco e' a somma costante:",
+    "choices": [
+      "se la somma dei guadagni e' costante in corrispondenza dei vari esiti del gioco.",
+      "se la somma dei guadagni e' rigida in corrispondenza dei vari esiti del gioco.",
+      "se la somma dei guadagni e' variabile in corrispondenza dei vari esiti del gioco.",
+      "se la somma dei guadagni e' pari a 0"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q78",
+    "topic": "Microeconomia",
+    "question": "Secondo la teoria dei giochi un gioco e' a somma variabile:",
+    "choices": [
+      "se la somma dei guadagni e' costante in corrispondenza dei vari esiti del gioco",
+      "se la somma dei guadagni e' rigida in corrispondenza dei vari esiti del gioco",
+      "se la somma dei guadagni e' variabile in corrispondenza dei vari esiti del gioco",
+      "se la somma dei guadagni e' pari a 0"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q79",
+    "topic": "Microeconomia",
+    "question": "Secondo la teoria dei giochi cosa si intende per gioco in forma estensiva:",
+    "choices": [
+      "quando viene specificato l'albero del gioco.",
+      "quando ci sono piu' giocatori.",
+      "quando i giocatori sono in un regime di concorrenza.",
+      "quando i giocatori  non sono in un regime di concorrenza."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q80",
+    "topic": "Microeconomia",
+    "question": "Se due beni, Nutella e Grissini, sono perfettamente complementari:",
+    "choices": [
+      "L’effetto di sostituzione sarà nullo.",
+      "La soluzione ottimale di consumo sarà sempre ‘ad angolo’ (ovvero in un punto sull’asse orizzontale o verticale).",
+      "L’effetto di sostituzione dovuto ad un aumento del prezzo della nutella sarà maggiore all’effetto di reddito.",
+      "L’effetto reddito e' nullo."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q81",
+    "topic": "Microeconomia",
+    "question": "Si consideri una operazione finanziaria F che prevede introiti di euro Q al tempo t = 3, euro 2Q al tempo t = 4, euro 3Q al tempo t = 8 (tempo espresso in anni). Calcolare la duration di F utilizzando il tasso istantaneo di valutazione δ = 0.11u':",
+    "choices": [
+      "durF=5,31anni.",
+      "durF=7,2 anni.",
+      "durF= 2 anni.",
+      "durF=8,5 anni."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q82",
+    "topic": "Microeconomia",
+    "question": "In un mercato in condizioni di monopolio (supponete per semplicità che il costo marginale sia pari a zero):",
+    "choices": [
+      "Il surplus del consumatore e' pari a zero.",
+      "L’introduzione di un prezzo massimo da parte dello Stato (piu' basso del prezzo che il monopolista avrebbe scelto in assenza dell’intervento statale) aumenta la quantità offerta dal monopolista e ne riduce i profitti.",
+      "L’obiettivo dell’impresa e' quello di massimizzare la quantità venduta.",
+      "L’introduzione di un prezzo massimo da parte dello Stato (piu' basso del prezzo che il monopolista avrebbe scelto in assenza dell’intervento statale) aumenta la quantità offerta dal monopolista e ne aumenta i profitti."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q83",
+    "topic": "Microeconomia",
+    "question": "Un equilibrio di Nash:",
+    "choices": [
+      "E’ una situazione di equilibrio nella quale non e' possibile migliorare il benessere di un giocatore senza diminuire quello dell’altro.",
+      "Se esistono strategie dominanti l’equilibrio sarà certamente ottimale.",
+      "Puo' portare ad un risultato sub‐ottimale rispetto ad un equilibrio frutto di coordinamento tra i due giocatori.",
+      "Nessuna delle precedenti e' vera."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q84",
+    "topic": "Microeconomia",
+    "question": "L'elasticità della domanda di un bene rispetto al reddito del consumatore:",
+    "choices": [
+      "E’ pari a 1 nel lungo periodo.",
+      "E’ positiva se il bene e' ‘normale’.",
+      "E’ sempre negativa se il bene e' ‘normale’.",
+      "E’ anelastica."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q85",
+    "topic": "Microeconomia",
+    "question": "La curva prezzo-consumo:",
+    "choices": [
+      "e' il luogo dei punti di ottimo ottenuta mantenendo invariato il prezzo dei beni.",
+      "e' il luogo dei punti di ottimo ottenuta facendo variare il prezzo dei beni ferme restando le altre variabili.",
+      "e' il luogo dei punti di ottimo ottenuta dalle curve di offerta.",
+      "e' il luogo dei punti di ottimo che esprime il legame funzionale tra domanda e reddito."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q86",
+    "topic": "Microeconomia",
+    "question": "La curva reddito-consumo:",
+    "choices": [
+      "e' il luogo dei punti di ottimo ottenuta mantenendo invariato il prezzo dei beni.",
+      "e' il luogo dei punti di ottimo ottenuta facendo variare il prezzo dei beni ferme restando le altre variabili.",
+      "e' il luogo dei punti di ottimo ottenuta dalle curve di offerta.",
+      "e' il luogo dei punti di ottimo che esprime il legame funzionale tra domanda e reddito."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "micro_q87",
+    "topic": "Microeconomia",
+    "question": "La funzione di produzione e' rappresentata da:",
+    "choices": [
+      "x=f(p)",
+      "C=CT",
+      "y=f(v1, v2, .....vn, K)",
+      "y=f(p; v1)"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q88",
+    "topic": "Microeconomia",
+    "question": "In una condizione di monopolio il profitto e' definito da:",
+    "choices": [
+      "Max∏=RT(y) / CT(y)",
+      "Max∏=RT(y)- CT(y)",
+      "Max∏=RT(y)+ CT(y)",
+      "Min∏=RT(y)-CT(y)"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q89",
+    "topic": "Microeconomia",
+    "question": "Nel regime di concorrenza perfetta il livello di output che massimizza il profitto considerando le curve di RT e CT e' dato da:",
+    "choices": [
+      "Max∏= C'=R'=p",
+      "Max∏= C'-R'=p",
+      "Max∏= C=R=p",
+      "Max∏= C'/R'=p"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q90",
+    "topic": "Microeconomia",
+    "question": "Nel regime di concorrenza perfetta il livello di output che massimizza il profitto considerando le curve di costo medio e costo marginale e' dato da:",
+    "choices": [
+      "p*>pc",
+      "p*<pc",
+      "p*=pc",
+      "non e' possibile massimizzare il profitto."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q91",
+    "topic": "Microeconomia",
+    "question": "Un aumento del prezzo riduce il consumo desiderato per effetto sostituzione:",
+    "choices": [
+      "in quanto e' piu' conveniente consumare beni alternativi.",
+      "in quanto  non e' piu' conveniente consumare beni alternativi.",
+      "in quanto e' piu' conveniente consumare beni complementari.",
+      "in quanto  non e' piu' conveniente consumare beni di prima necessità."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q92",
+    "topic": "Microeconomia",
+    "question": "Un aumento del prezzo riduce il consumo desiderato per effetto del reddito:",
+    "choices": [
+      "perché riduce il potere d’acquisto e quindi le possibilità di consumo.",
+      "perché aumenta il potere d’acquisto e quindi le possibilità di consumo.",
+      "perché riduce il reddito quindi le possibilità di consumo.",
+      "perché riduce il consumo."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q93",
+    "topic": "Microeconomia",
+    "question": "Secondo l'efficienza paretiana:",
+    "choices": [
+      "L'allocazione delle risorse non sarà mai possibile.",
+      "L’allocazione delle risorse di una data società e' efficiente se e' possibile aumentare l’utilità anche di un solo individuo lasciando invariata l’utilità dei restanti individui.",
+      "L’allocazione delle risorse di una data società e' efficiente se non e' possibile, mediante una qualche modificazione, aumentare l’utilità di almeno un individuo senza diminuire quella degli altri.",
+      "Il consumatore non realizza la massimizzaizone della sua utilità."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q94",
+    "topic": "Microeconomia",
+    "question": "L'efficienza Paretiana si basa sul principio:",
+    "choices": [
+      "del massimo profitto.",
+      "dell’individualismo etico.",
+      "del collettivismo.",
+      "del minimo sforzo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q95",
+    "topic": "Microeconomia",
+    "question": "L'efficienza Paretiana si basa sul principio:",
+    "choices": [
+      "dell'aggregazione.",
+      "del massimo profitto.",
+      "del minimo sforozo.",
+      "del collettivismo."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q96",
+    "topic": "Microeconomia",
+    "question": "Secondo il principio dell'individualismo etico:",
+    "choices": [
+      "ciascun individuo non riesce a valutare la propria utilità.",
+      "ciascun individuo e' sempre il miglior giudice della propria utilità.",
+      "ciascun individuo e' sempre il peggior giudice della propria utilità.",
+      "ciascun individuo e' sempre solo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "micro_q97",
+    "topic": "Microeconomia",
+    "question": "Secondo il principo dell'aggregazione:",
+    "choices": [
+      "le preferenze individuali vanno considerate in modo congiunto.",
+      "le preferenze individuali vanno considerate in modo disgiunto.",
+      "le preferenze individuali  non vanno considerate.",
+      "non esistono preferenze individuali."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q98",
+    "topic": "Microeconomia",
+    "question": "Quali sono i filoni principali delle teorie della distribuzione:",
+    "choices": [
+      "teorie classiche.",
+      "teorie classiche e neoclassiche.",
+      "teorie del sorappiu' e teorie della produttività marginale.",
+      "teorie della produttività marginale."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "micro_q99",
+    "topic": "Microeconomia",
+    "question": "Il sovrappiu' puo' essere definito comne:",
+    "choices": [
+      "parte del prodotto sociale compessivo che eccede la ricostituzione dei mezzi di produzione consumati nel processo produttivo.",
+      "il reddito del consumatore.",
+      "il salario.",
+      "parte del profitto delle imprese."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "micro_q100",
+    "topic": "Microeconomia",
+    "question": "Il saggio marginale di sostituzione del bene 2 con il bene 1 e' dato da:",
+    "choices": [
+      "Δx2/Δx1",
+      "x1/x2",
+      "x2/Δx1",
+      "Δx2/x1"
+    ],
+    "answerIndex": 0
+  }
+]

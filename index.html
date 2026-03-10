@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Microeconomia</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+  <!-- HOME -->
+  <section id="screen-home" class="card">
+    <h1>Quiz Microeconomia</h1>
+
+    <div class="field">
+      <label>Numero domande</label>
+      <input id="input-count" type="number" value="10" min="1">
+    </div>
+
+    <div class="field">
+      <label>Modalità</label>
+      <select id="select-mode">
+        <option value="instant">Feedback immediato</option>
+        <option value="exam">Stile esame (feedback alla fine)</option>
+      </select>
+    </div>
+
+    <div class="field checkbox">
+      <label><input type="checkbox" id="check-shuffle"> Mescola risposte</label>
+    </div>
+
+    <div class="field checkbox">
+      <label><input type="checkbox" id="check-only-wrong"> Solo domande sbagliate</label>
+    </div>
+
+    <div class="actions">
+      <button id="btn-start">Inizia Quiz</button>
+      <button id="btn-bank" type="button">📚 Vedi tutte le domande</button>
+      <button id="btn-reset" type="button">Reset errori</button>
+    </div>
+  </section>
+
+  <!-- QUIZ -->
+  <section id="screen-quiz" class="card hidden">
+    <div class="quiz-header">
+      <div id="meta-counter"></div>
+      <div id="meta-topic" class="tag hidden"></div>
+    </div>
+
+    <div class="progress">
+      <div id="progress-bar"></div>
+    </div>
+
+    <h2 id="question-text"></h2>
+    <div id="answers" class="answers"></div>
+
+    <div id="feedback" class="feedback hidden"></div>
+
+    <div class="actions">
+      <button id="btn-prev">Indietro</button>
+      <button id="btn-next" disabled>Avanti</button>
+      <button id="btn-end">Termina</button>
+    </div>
+  </section>
+
+  <!-- RESULT -->
+  <section id="screen-result" class="card hidden">
+    <h2>Risultato</h2>
+    <div id="result-summary"></div>
+
+    <div class="actions">
+      <button id="btn-restart">Torna alla Home</button>
+      <button id="btn-retry-wrong" class="hidden">Ripeti sbagliate</button>
+    </div>
+
+    <div id="review"></div>
+  </section>
+
+  <!-- BANK (Archivio domande) -->
+  <section id="screen-bank" class="card hidden">
+    <div class="bank-header">
+      <h2>Archivio Domande</h2>
+      <button id="btn-bank-close">Chiudi</button>
+    </div>
+
+    <div class="field">
+      <input id="bank-search" type="text" placeholder="Cerca nella domanda...">
+    </div>
+
+    <div id="bank-count" class="muted"></div>
+    <div id="bank-list"></div>
+  </section>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
